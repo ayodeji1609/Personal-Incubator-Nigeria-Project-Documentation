@@ -21,3 +21,6 @@ WHERE CONDITION = NET
 |Name|Gender|Occupation|
 |------|------|------|
 |Ayodeji|Male|Data Analyst|
+|James|Male|Banker|
+|Victory|Female|Fashion Designer|
+|Janet|Female|Engineer|
