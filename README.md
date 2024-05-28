@@ -17,3 +17,7 @@ SELECT* FROM TABLE 1
 WHERE CONDITION = NET
 ~~~
 ![](IMG-20230915-WA0039.jpg)
+![](IMG-20230915-WA0043.jpg)
+|Name|Gender|Occupation|
+|------|------|------|
+|Ayodeji|Male|Data Analyst|
